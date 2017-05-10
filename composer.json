@@ -1,0 +1,33 @@
+{
+    "name": "hugogit/flarum-ext-discordwidget",
+    "description": "Add Discord Widget to Flarum",
+    "type": "flarum-extension",
+    "keywords": ["flarum", "discord", "widget"],
+    "license": "MIT",
+    "version": "0.1.7",
+    "authors": [
+        {
+            "name": "Hugo Guiter",
+            "email": "hugo.guiter@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Discord Widget",
+            "icon": {
+                "name": "comments-o",
+                "backgroundColor": "#7289da",
+                "color": "#ffffff"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "HugoGit\\DiscordWidget\\": "src/"
+        }
+    }
+}
