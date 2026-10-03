@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of hugogit/flarum-ext-discordwidget.** Not for installation: use [Packagist](https://packagist.org/packages/hugogit/flarum-ext-discordwidget) or the [upstream repository](https://github.com/HugoGit/flarum-ext-discordwidget).
 
-**0** versions archived · Latest: [`0.1.7`](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**6** versions archived · Latest: [`0.1.7`](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2017-05-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-05-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-05-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.3) |
+| `0.1.4` | 2017-05-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.4) |
+| `0.1.5` | 2017-05-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.5) |
+| `0.1.7` | 2017-05-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hugogit-flarum-ext-discordwidget/tree/archive/v0.1.7) |
 
 Catalog entry: [packages/hugogit-flarum-ext-discordwidget.json](https://github.com/flarchive/archive-index/blob/main/packages/hugogit-flarum-ext-discordwidget.json)
 
